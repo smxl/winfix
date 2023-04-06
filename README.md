@@ -9,7 +9,7 @@ Scan Report: https://www.virscan.org/report/f58964e02bbe8fbe1ec90d988fb1e4034929
 
 ### Usage
 
-1a. Download cmd and exe / Release
+1a. Download cmd and exe
 
 1b. Download Release and unzip
 
