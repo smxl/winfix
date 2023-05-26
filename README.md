@@ -9,11 +9,11 @@ Scan Report: https://www.virscan.org/report/f58964e02bbe8fbe1ec90d988fb1e4034929
 
 ### Usage
 
-1a. Download cmd and exe
+1a. Download the cmd and exe files
 
-1b. Download Release and unzip
+1b. Download the Release version and unzip it
 
-2. Run cmd, MUST Run as Administrator
+2. Run the cmd file as an Administrator
 
 3. Done.
 
