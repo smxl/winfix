@@ -1,3 +1,7 @@
+Simplified Chinese IME dictionaries are not ready yet on win11
+
+
+
 # No Edge
 Uninstall Edge script. Test with Microsoft Edge Ver 111.0.1661.54 on Windows 11. Remove Edge, Edge Core and Edge WebView.
 
