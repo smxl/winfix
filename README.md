@@ -2,7 +2,7 @@
 
 Fix `Simplified Chinese IME dictionaries are not ready yet on Win 11`
 
-DL & RUN ime fix.zip
+DL & RUN ime.fix.zip
 
 ## No Edge
 Uninstall Edge script. Work with Microsoft Edge Ver 133.0.1661.54 on Windows 11 24H2. Remove Edge, Edge Core and Edge WebView.
