@@ -1,6 +1,6 @@
 ## IME CHS Fix
 
-`Simplified Chinese IME dictionaries are not ready yet on Win 11`
+Fix `Simplified Chinese IME dictionaries are not ready yet on Win 11`
 
 DL & RUN ime fix.zip
 
