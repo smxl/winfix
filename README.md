@@ -8,7 +8,7 @@ Fix `Simplified Chinese IME dictionaries are not ready yet on Win 11`
 
 3. Done.
 
-修复输入法问题
+修复 `中文输入法问题`
 
 1. 下载 Release 并解压
 
